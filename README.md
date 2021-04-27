@@ -1,0 +1,2 @@
+# coinburn-smartcontracts
+CoinBurn smartcontracts
